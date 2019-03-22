@@ -16,13 +16,13 @@ The tested functions are:
   - dismissConfirmation
 * plugin actions:
   - getPluginDescendantsRequest
-	-	getPluginDescendantsSuccess
-	-	getPluginDetailsRequest
-	-	getPluginDetailsSuccess
-	-	getPluginParametersRequest
-	-	getPluginParametersSuccess
-	-	getPluginFilesRequest
-	-	getPluginFilesSuccess
+  -	getPluginDescendantsSuccess
+  -	getPluginDetailsRequest
+  -	getPluginDetailsSuccess
+  -	getPluginParametersRequest
+  -	getPluginParametersSuccess
+  -	getPluginFilesRequest
+  -	getPluginFilesSuccess
 * ui actions:
   - uiOnBeforeRequest
   - uiOnCompleteRequest
@@ -32,5 +32,5 @@ The tested functions are:
   - setSidebarActive
 * user actions:
   - getAuthToken
-	-	getAuthTokenSuccess
-	-	setUserLogout
+  - getAuthTokenSuccess
+  - setUserLogout
